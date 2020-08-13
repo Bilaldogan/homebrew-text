@@ -1,0 +1,6 @@
+3e40f08c3ce24b8993eb1f92aa9af79034b33d9709499a1d1e7b111a5645d56e  homebrew-text_0.1.0_Windows_i386.tar.gz
+4b2b160058782376be81254281f10d1c56686bbfe4076b5f4274d259555bd566  homebrew-text_0.1.0_Linux_x86_64.tar.gz
+534fb4bf3bfa5d37f28e79e2dc23cc32065d26b34ddfe6b052a0aa72e6a2fad2  homebrew-text_0.1.0_Windows_x86_64.tar.gz
+66ceca1d88332dfd2d7bd90ce80e6cf4a1ff902e6ee9e0c25f2cef9b07f7030f  homebrew-text_0.1.0_Darwin_i386.tar.gz
+ed28ff8be856dc48191b8eece851a66f9a1a5e05f03bec9c42ef80ea006f512e  homebrew-text_0.1.0_Darwin_x86_64.tar.gz
+f7447862fc4c6227cde44e95c18e1392e85738720c6ce9eebc6abfd5f5d6ef41  homebrew-text_0.1.0_Linux_i386.tar.gz
